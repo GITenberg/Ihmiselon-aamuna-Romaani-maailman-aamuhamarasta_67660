@@ -1,0 +1,40 @@
+_repo: Ihmiselon-aamuna-Romaani-maailman-aamuhamarasta_67660
+_version: 0.0.1
+alternative_title: In the morning of time. Finnish
+contributor:
+  translator:
+    agent_name: Nieminen, Alli
+    gutenberg_agent_id: '54380'
+    url: http://www.gutenberg.org/2009/agents/54380
+creator:
+  author:
+    agent_name: Roberts, Charles G. D., Sir
+    aliases:
+    - Roberts, Charles George Douglas, Sir
+    - Roberts, Sir Charles G. D.
+    - Roberts, Sir Charles George Douglas
+    birthdate: 1860
+    deathdate: 1943
+    gutenberg_agent_id: '2272'
+    url: http://www.gutenberg.org/2009/agents/2272
+    wikipedia: https://en.wikipedia.org/wiki/Charles_G._D._Roberts
+description: ''
+gutenberg_issued: '2022-03-20'
+identifiers:
+  gutenberg: '67660'
+language: fi
+pgterms:marc905: 20220218012321roberts
+pgterms:marc906: '1921'
+pgterms:marc907: FI
+production_note: Sirkku-Liisa Häyhä-Karmakainen and Tapio Riikonen
+publication_note: Finland :Kust.Oy Kirja,1921.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prehistoric peoples -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Fantasy fiction'
+- GITenberg
+title: 'Ihmiselon aamuna: Romaani maailman aamuhämärästä'
+url: http://www.gutenberg.org/ebooks/67660
