@@ -6,6 +6,9 @@ contributor:
     agent_name: Nieminen, Alli
     gutenberg_agent_id: '54380'
     url: http://www.gutenberg.org/2009/agents/54380
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Roberts, Charles G. D., Sir
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2272
     wikipedia: https://en.wikipedia.org/wiki/Charles_G._D._Roberts
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67660#Ihmiselon-aamuna-Romaani-maailman-aamuhamarasta
 gutenberg_issued: '2022-03-20'
 identifiers:
   gutenberg: '67660'
